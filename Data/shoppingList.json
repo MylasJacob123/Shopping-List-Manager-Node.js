@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "item": "Apples",
+    "quantity": 11,
+    "notes": "Prefer organic"
+  },
+  {
+    "id": 2,
+    "item": "Milk",
+    "quantity": 2,
+    "notes": "Whole Milk"
+  }
+]
